@@ -1,0 +1,32 @@
+{
+  "gitSyncId": "673cb4ff829f7b3535096676_2246b5a6-23d0-4958-bc28-72ac55ece53a",
+  "unpublishedPage": {
+    "isHidden": false,
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 890,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "minHeight": 970,
+          "parentColumnSpace": 1,
+          "parentRowSpace": 1,
+          "rightColumn": 1160,
+          "snapColumns": 64,
+          "snapRows": 125,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 90,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "Directions",
+    "slug": "directions"
+  }
+}
